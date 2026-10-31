@@ -1,0 +1,28 @@
+{
+  "CONNECTION": {
+    "SPECS": {
+      "baudtype": "5",
+      "d": "10"
+    },
+    "INITCMDLIST": [
+      {"cmdtext": "ATZ", "cresp": "OK", "ctimewait": "500"},
+      {"cmdtext": "ATSP5", "cresp": "OK", "ctimewait": "200"},
+      {"cmdtext": "ATSH8110F1", "cresp": "OK", "ctimewait": "100"}
+    ],
+    "WAKEUPCMDLIST": [],
+    "REINITCMDLIST": []
+  },
+  "PARAMETER": {
+    "01": [
+      {"cmdtext": "2101", "cresp": "61 01", "cdesc": "دور موتور", "cformula": "B[1]*0.75", "unit_sim": "rpm", "cmin": "0", "cmax": "8000", "ctype": "2", "cheader": "61 01", "decimalp": "0"}
+    ],
+    "02": [
+      {"cmdtext": "2102", "cresp": "61 02", "cdesc": "دمای مایع خنک‌کننده", "cformula": "B[1]-40", "unit_sim": "°C", "cmin": "-40", "cmax": "215", "ctype": "2", "cheader": "61 02", "decimalp": "0"}
+    ]
+  },
+  "DTC": {
+    "P0100": [
+      {"cmdtext": "2180", "cformula": "INFO{O[1],C[1]}", "cdesc": "سنسور جریان هوای ورودی - مدار", "ctype": "4"}
+    ]
+  }
+}

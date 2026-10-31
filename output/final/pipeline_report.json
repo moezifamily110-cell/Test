@@ -1,0 +1,75 @@
+{
+ "pipeline_version": "6.0",
+ "go_output": "/home/user/ecu_project/output/go_crawler",
+ "out": "/home/user/ecu_project/output/final",
+ "offline": true,
+ "started_at": "2026-10-31T15:11:56Z",
+ "go_records_accepted": 11,
+ "go_records_rejected": 0,
+ "go_rejected_reasons": {},
+ "diamond_records": 0,
+ "sicar_runtime_status": {
+  "ok": 5,
+  "reference_runtime_drops_text": 2,
+  "dtc_decode": 3
+ },
+ "unique_formula_ctype_decimal": 7,
+ "formulas_evaluated": 7,
+ "conflicts_total": 0,
+ "conflicts_by_type": {},
+ "conflict_stats": {
+  "same_file_duplicate_parameter_names": 0
+ },
+ "coverage_gaps": 1,
+ "site_history_change_rows": 0,
+ "run_diff": {
+  "first_run": true,
+  "previous_count": 0,
+  "current_count": 11,
+  "added": 11,
+  "removed": 0,
+  "changed": 0
+ },
+ "hierarchy_label_sources": {
+  "record": 11
+ },
+ "json_archive": {
+  "path": "/home/user/ecu_project/output/final/JSON_Archive/ECU_Hierarchy.json",
+  "manufacturers": 2,
+  "vehicles": 2,
+  "ecus": 2,
+  "parameters_total": 7,
+  "dtcs_total": 3,
+  "init_commands_total": 1,
+  "unknown_ecu_records": 0,
+  "unknown_manufacturer_records": 0,
+  "originals": 2,
+  "originals_verified": 2
+ },
+ "timings_sec": {
+  "۱. بارگذاری داده Go": 0.01,
+  "۴. اسناد رسمی Diamond": 0.01,
+  "۵. ارزیابی زمان اجرای فرمول‌ها": 0.0,
+  "۶. شناسایی تعارضات": 0.0,
+  "۷. مقایسه نسخه‌ها": 0.01,
+  "۸. تولید Excel جامع": 0.02,
+  "   تولید گزارش تعارضات": 0.01,
+  "   ذخیره رکوردهای ردشده": 0.0,
+  "۹. تولید آرشیو JSON ساختاریافته": 0.04
+ },
+ "total_sec": 0.1,
+ "records_total": 11,
+ "manufacturers": {
+  "ایران‌خودرو": 8,
+  "سایپا": 3
+ },
+ "vehicles": {
+  "سمند LX": 8,
+  "پراید 111": 3
+ },
+ "ecus": {
+  "Sagem S2000": 8,
+  "Crouse CB1": 3
+ },
+ "finished_at": "2026-10-31T15:11:56Z"
+}

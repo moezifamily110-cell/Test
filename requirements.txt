@@ -1,0 +1,22 @@
+# وابستگی‌های پروژه ECU Pipeline v6
+
+# هسته
+requests>=2.28.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# خروجی Excel
+openpyxl>=3.1.0
+
+# خروجی Word
+python-docx>=1.0.0
+
+# سطح Diamond (PDF/Excel)
+pdfplumber>=0.10.0
+pandas>=2.0.0
+openpyxl>=3.1.0  # برای pandas Excel
+
+# OBD Sniffer (اختیاری)
+pyserial>=3.5
+
+# Go 1.21+ برای اجرای خزنده وب

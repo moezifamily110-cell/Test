@@ -1,0 +1,23 @@
+{
+ "first_run": true,
+ "previous_count": 0,
+ "current_count": 11,
+ "added": 11,
+ "removed": 0,
+ "changed": 0,
+ "added_ids": [
+  "rec001",
+  "rec002",
+  "rec003",
+  "rec004",
+  "rec005",
+  "rec006",
+  "rec007",
+  "rec008",
+  "rec009",
+  "rec010",
+  "rec011"
+ ],
+ "removed_ids": [],
+ "changed_detail": []
+}

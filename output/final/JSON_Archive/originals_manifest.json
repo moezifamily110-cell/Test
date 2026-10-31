@@ -1,0 +1,18 @@
+[
+ {
+  "group": "site_json",
+  "rel": "pride_crouse_cb1.json",
+  "local_path": "/home/user/ecu_project/output/go_crawler/files/json/pride_crouse_cb1.json",
+  "sha256": "3968a3ecc58949b71f8f063e0c16313def9be373324ab5e30203f1140aa3a39c",
+  "archive_path": "originals/site_json/pride_crouse_cb1.json",
+  "verified": true
+ },
+ {
+  "group": "site_json",
+  "rel": "samand_sagem_s2000.json",
+  "local_path": "/home/user/ecu_project/output/go_crawler/files/json/samand_sagem_s2000.json",
+  "sha256": "7b21f3f0048e741fec94b5acb194bb222c70781f8664d0f8327971bc235ec8f7",
+  "archive_path": "originals/site_json/samand_sagem_s2000.json",
+  "verified": true
+ }
+]

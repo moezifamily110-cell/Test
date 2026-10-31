@@ -1,0 +1,18 @@
+{
+  "version": "15.0",
+  "base_url": "https://ecu.sisoog.com",
+  "start_url": "https://ecu.sisoog.com/wiki/اولین_مرجع_رتب_باو_ECU_در_ایران",
+  "finished_at": "2026-10-31T10:00:00Z",
+  "pages_total": 47,
+  "files_total": 12,
+  "records_total": 11,
+  "errors_total": 0,
+  "workers": 6,
+  "rate_limit": "350ms",
+  "robots_status": "loaded (3 rules)",
+  "vehicles_tree": 2,
+  "site_vs_json": 1,
+  "github_checks": 0,
+  "version_history": 0,
+  "note": "این داده نمونه برای تست خط لوله Python است"
+}

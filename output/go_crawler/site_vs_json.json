@@ -1,0 +1,19 @@
+[
+  {
+    "ecu_page": "https://ecu.sisoog.com/wiki/ECU_سامند_ساجم",
+    "ecu_title": "ECU سمند ساجم",
+    "file": "samand_sagem_s2000.json",
+    "parameter": "فشار سوخت",
+    "command": "2105",
+    "table_formula": "B[1]*0.01",
+    "json_formula": "",
+    "table_min": "0",
+    "json_min": "",
+    "table_max": "5",
+    "json_max": "",
+    "table_unit": "bar",
+    "json_unit": "",
+    "status": "not_in_json",
+    "vehicle": "سمند LX"
+  }
+]

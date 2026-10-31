@@ -1,0 +1,26 @@
+[
+  {
+    "manufacturer": "ایران‌خودرو (IKCO)",
+    "manufacturer_page": "https://ecu.sisoog.com/wiki/خودروهای_ایران‌خودرو",
+    "vehicles": ["سمند", "دنا", "رانا", "تارا", "آریو"],
+    "vehicle_pages": [
+      "https://ecu.sisoog.com/wiki/سمند",
+      "https://ecu.sisoog.com/wiki/دنا",
+      "https://ecu.sisoog.com/wiki/رانا",
+      "https://ecu.sisoog.com/wiki/تارا",
+      "https://ecu.sisoog.com/wiki/آریو"
+    ]
+  },
+  {
+    "manufacturer": "سایپا (SAIPA)",
+    "manufacturer_page": "https://ecu.sisoog.com/wiki/خودروهای_سایپا",
+    "vehicles": ["پراید", "تیبا", "ساینا", "کوییک", "شاهین"],
+    "vehicle_pages": [
+      "https://ecu.sisoog.com/wiki/پراید",
+      "https://ecu.sisoog.com/wiki/تیبا",
+      "https://ecu.sisoog.com/wiki/ساینا",
+      "https://ecu.sisoog.com/wiki/کوییک",
+      "https://ecu.sisoog.com/wiki/شاهین"
+    ]
+  }
+]
